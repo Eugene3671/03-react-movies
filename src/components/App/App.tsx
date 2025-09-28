@@ -6,7 +6,7 @@ import toast from "react-hot-toast";
 import type Movie from "../../types/movies";
 import MovieGrid from "../MovieGrid/MovieGrid";
 import Loader from "../Loader/Loader";
-import ErrorMessage from "../ErrorMassage/ErrorMassage";
+import ErrorMessage from "../ErrorMessage/ErrorMassage";
 import MovieModal from "../MovieModal/MovieModal";
 
 function App() {
